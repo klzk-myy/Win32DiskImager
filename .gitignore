@@ -1,0 +1,44 @@
+# Build artifacts
+src/release/
+src/debug/
+src/Makefile
+src/Makefile.*
+src/.qmake.stash
+src/ui_mainwindow.h
+src/moc_*.cpp
+src/moc_predefs.h
+src/qrc_*.cpp
+src/*.o
+
+# Compiled translations (generated from .ts files)
+src/lang/*.qm
+
+# Binaries
+*.exe
+*.dll
+
+# Qt deployment (Release folder contents)
+Release/
+
+# Inno Setup output
+Output/
+
+# Log files
+*.log
+
+# Test files
+*.img
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.db
