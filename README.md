@@ -2,9 +2,8 @@
 
 A Windows utility for reading and writing raw disk images (.img) to SD cards and USB memory devices.
 
-Original version developed by Justin Davis <tuxdavis@gmail.com>
-Maintained by the ImageWriter developers (http://sourceforge.net/projects/win32diskimager). by  gruemaster, tuxinator2009
-Forked by luzenkock@gmail.com
+Original version developed by Justin Davis <tuxdavis@gmail.com>. 
+Maintained by the ImageWriter developers (http://sourceforge.net/projects/win32diskimager) by  gruemaster, tuxinator2009
 
 ## Features
 
